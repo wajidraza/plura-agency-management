@@ -1,0 +1,7 @@
+{
+  "name": "plura-agency-management",
+  "version": "1.0.0",
+  "description": "All-in-one SaaS platform enabling marketing agencies to manage clients, provision sub-accounts, configure custom subdomains, and charge commissions.",
+  "author": "Wajid Raza <wajidrazapk@outlook.com>",
+  "license": "MIT"
+}
